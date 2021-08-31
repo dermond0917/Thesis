@@ -1,1 +1,1 @@
-# Thesis
+# Korean Text-to-SQL
