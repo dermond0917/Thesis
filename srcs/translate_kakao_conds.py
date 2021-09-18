@@ -3,7 +3,7 @@ from kakaotrans import Translator
 
 translator = Translator()
 
-restAPI_key = "KakaoAK f1ae08a4109abfb514bb5ed5c406f39c"
+restAPI_key = "KakaoAK ------"
 
 origin_data = jsonl.load_jsonl("data/dev.jsonl")
 translated_data = []
