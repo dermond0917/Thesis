@@ -13,13 +13,6 @@ print(datetime.datetime.now())
 
 translator = translate.Client()
 
-restAPI_key = "KakaoAK f1ae08a4109abfb514bb5ed5c406f39c"
-#restAPI_key = "KakaoAK bd5597437d9dcee62a8b5ed97a19d8e1"
-
-#restAPI_key = "KakaoAK afc2d7aff88d966fd4bb2b6f09e56b5d"
-
-print(restAPI_key)
-
 origin_data = jsonl.load_jsonl("outputs/train/train_mini_tables_jebal.jsonl")
 
 translated_data = []
