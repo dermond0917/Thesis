@@ -1,15 +1,12 @@
 from google.cloud import translate_v2 as translate
 
-client = translate.Client()
-#result = client.translate('First season of current spell in top division', target_language='ko')
-#print(result['translatedText'])
-
-
 import jsonl
 from google.cloud import translate_v2 as translate
 import datetime
 
 print(datetime.datetime.now())
+
+client = translate.Client()
 
 translator = translate.Client()
 
