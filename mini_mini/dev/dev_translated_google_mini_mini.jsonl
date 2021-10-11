@@ -1,0 +1,144 @@
+{"phase": 1, "table_id": "1-10015132-11", "question": "집사 cc(ks)에서 뛰던 선수는 어떤 포지션을 하고 있나요?\n", "sql": {"sel": 3, "conds": [[5, 0, "버틀러 CC(KS)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-11", "question": "3번 선수는 몇 학교에서 뛰었나요?\n", "sql": {"sel": 5, "conds": [[1, 0, "3"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10015132-11", "question": "21번 선수는 어느 학교에서 뛰었나요?\n", "sql": {"sel": 5, "conds": [[1, 0, "21"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-11", "question": "42번을 쓴 선수는?\n", "sql": {"sel": 0, "conds": [[1, 0, "42"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-11", "question": "1996-97시즌에 토론토에서 가드로 뛰었던 선수는?\n", "sql": {"sel": 0, "conds": [[3, 0, "경비원"], [4, 0, "1996-97"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-9", "question": "Westchester 고등학교 클럽 팀의 모든 선수는 누구입니까?\n", "sql": {"sel": 0, "conds": [[5, 0, "웨스트체스터 고등학교"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-9", "question": "Amir Johnson이 속한 학교/클럽 팀은 무엇입니까?\n", "sql": {"sel": 5, "conds": [[0, 0, "아미르 존슨"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-9", "question": "2005-06 시즌 토론토 팀의 총 인원은 몇 명입니까?\n", "sql": {"sel": 1, "conds": [[4, 0, "2005-06"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10015132-9", "question": "2006-07 시즌 토론토 팀의 총 포지션 수는 몇 개입니까?\n", "sql": {"sel": 3, "conds": [[4, 0, "2006-07"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10015132-9", "question": "프레즈노 주립 학교/클럽 팀의 선수들의 국적은 무엇입니까?\n", "sql": {"sel": 2, "conds": [[5, 0, "프레즈노 주립"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10015132-9", "question": "Trey Johnson이 속한 학교/클럽 팀은 무엇입니까?\n", "sql": {"sel": 5, "conds": [[0, 0, "트레이 존슨"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10026563-1", "question": "Jacques Chirac은 언제 G8 리더에서 물러났습니까?\n", "sql": {"sel": 2, "conds": [[3, 0, "자크 시라크"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10026563-1", "question": "이탈리아 총리는 언제 취임했습니까?\n", "sql": {"sel": 0, "conds": [[4, 0, "이탈리아 총리"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1008653-1", "question": "공식 모국어가 네덜란드어 파피아멘토인 국가의 영어 이름은 무엇입니까?\n", "sql": {"sel": 0, "conds": [[4, 0, "네덜란드 파피아멘토"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1008653-1", "question": "수도가 캔버라인 국가에서는 어떤 공식 언어 또는 모국어를 사용합니까?\n", "sql": {"sel": 4, "conds": [[1, 0, "캔버라"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1008653-1", "question": "캔버라 시의 현지 이름은 무엇입니까?\n", "sql": {"sel": 3, "conds": [[1, 0, "캔버라"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1008653-1", "question": "앵귈라의 수도에 주어진 지역 이름은 무엇입니까?\n", "sql": {"sel": 3, "conds": [[2, 0, "앵귈라"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1008653-1", "question": "St. John&#39;s라는 도시의 영어 이름은 무엇입니까?\n", "sql": {"sel": 1, "conds": [[3, 0, "세인트 존스"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1008653-1", "question": "호주의 수도는 몇 개입니까?\n", "sql": {"sel": 3, "conds": [[2, 0, "호주"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10088101-1", "question": "프로덕션 코드가 9abx02인 에피소드는 원래 몇시에 방영되었나요?\n", "sql": {"sel": 5, "conds": [[6, 0, "9ABX02"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10088101-1", "question": "프로덕션 코드가 8abx15인 에피소드 번호는 무엇입니까?\n", "sql": {"sel": 1, "conds": [[6, 0, "8ABX15"]], "agg": 2}}
+{"phase": 1, "table_id": "1-10295819-2", "question": "6년 동안 플레이한 최소 타이의 이름을 지정하세요.\n", "sql": {"sel": 5, "conds": [[4, 0, 6]], "agg": 2}}
+{"phase": 1, "table_id": "1-10342194-3", "question": "대체가 필요한 나무의 수는 소나무 — 29.37 포플러 — 26.12 에이서 네군도 — 13.2입니다.\n", "sql": {"sel": 4, "conds": [[2, 0, "소나무 — 29.37 포플러 — 26.12 에이서 네군도 — 13.2"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10342194-3", "question": "지구가 레닌스키일 때 교체가 필요한 나무의 수는 얼마입니까?\n", "sql": {"sel": 4, "conds": [[0, 0, "레닌스키"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10342194-3", "question": "총수목이 150817.6878461314보다 작고 고목수가 1,928(1.89%)일 때 구역은?\n", "sql": {"sel": 0, "conds": [[1, 2, 150817.6878461314], [3, 0, "1,928 (1.89%)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10342194-3", "question": "지구가 motovilikhinsky일 때 교체가 필요한 나무의 양은 얼마입니까?\n", "sql": {"sel": 4, "conds": [[0, 0, "모토빌리킨스키"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10342194-3", "question": "지구가 레닌스키일 때 나무의 총량은 얼마입니까?\n", "sql": {"sel": 1, "conds": [[0, 0, "레닌스키"]], "agg": 1}}
+{"phase": 1, "table_id": "1-10342194-3", "question": "유형이 우세할 때 지역은 무엇이며 %는 acer negundo — 30.22 tilia — 18.6 포플러 — 15.23입니까?\n", "sql": {"sel": 0, "conds": [[2, 0, "에이서 네군도 — 30.22 틸리아 — 18.6 포플러 — 15.23"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10429820-13", "question": "&quot;big 12의 시작부터&quot; 값이 해당 범주와 동의어일 때 Ames 값은 무엇입니까?\n", "sql": {"sel": 2, "conds": [[8, 0, "Big 12 시작부터"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1046170-5", "question": "4th, 애틀랜틱 디비전 정규 시즌의 US 오픈 컵 상태는 무엇입니까?\n", "sql": {"sel": 5, "conds": [[3, 0, "4위, 대서양 디비전"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1046170-5", "question": "2003년에 열린 컵 대회에 출전하지 못한 디비전이 몇 개나 될까요?\n", "sql": {"sel": 1, "conds": [[5, 0, "자격 없음"], [0, 0, 2003]], "agg": 0}}
+{"phase": 1, "table_id": "1-1046170-5", "question": "어느 라운드는 우리 오픈 컵 디비전 준결승입니다\n", "sql": {"sel": 5, "conds": [[4, 0, "디비전 준결승"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1046170-5", "question": "정규 시즌 플레이오프는 모두 1위, 애틀랜틱 디비전입니다.\n", "sql": {"sel": 4, "conds": [[3, 0, "1위, 대서양 디비전"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1046170-5", "question": "1라운드 우리 오픈컵의 플레이오프는?\n", "sql": {"sel": 4, "conds": [[5, 0, "1라운드"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1061075-1", "question": "집계가 7-2인 2차전의 총 수는 얼마입니까?\n", "sql": {"sel": 5, "conds": [[6, 0, "7-2"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1061075-1", "question": "1차전이 3-2일 때의 합계는 얼마입니까?\n", "sql": {"sel": 6, "conds": [[4, 0, "3–2"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1061075-1", "question": "합계가 4-7인 경쟁은 무엇입니까?\n", "sql": {"sel": 1, "conds": [[6, 0, "4–7"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1061075-1", "question": "1차전이 4-1인 경쟁은? (h)\n", "sql": {"sel": 1, "conds": [[4, 0, "4-1 (h)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1061075-1", "question": "상대가 하우거인 라운드의 총 수는 얼마입니까?\n", "sql": {"sel": 2, "conds": [[3, 0, "말뚝"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1061075-1", "question": "상대가 갈라타사라이인 1차전은?\n", "sql": {"sel": 4, "conds": [[3, 0, "갈라타사라이"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10706961-2", "question": "Tom Sneva가 극 위치에 있었던 가장 높은 Rd는 무엇입니까?\n", "sql": {"sel": 0, "conds": [[2, 0, "톰 스네바"]], "agg": 1}}
+{"phase": 1, "table_id": "1-10706961-2", "question": "랩타임 56.920초로 가장 빠른 레이스에서 우승한 드라이버는 몇 명입니까?\n", "sql": {"sel": 4, "conds": [[3, 0, "56.920"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10706961-2", "question": "Forsythe Racing이 우승하고 Teo Fabi가 폴 포지션을 차지한 레이스에 얼마나 많은 보고서가 있습니까?\n", "sql": {"sel": 6, "conds": [[5, 0, "포사이스 레이싱"], [2, 0, "테오 파비"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10706961-2", "question": "인디애나폴리스 500에서 어떤 Rd가 발생했습니까?\n", "sql": {"sel": 0, "conds": [[1, 0, "인디애나폴리스 500"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10706961-2", "question": "Bobby Rahal이 우승 드라이버였을 때 어느 팀이 우승했습니까?\n", "sql": {"sel": 5, "conds": [[4, 0, "바비 라할"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10706961-2", "question": "Escort Radar Warning 200에서 가장 빠른 랩 타임은 무엇입니까?\n", "sql": {"sel": 3, "conds": [[1, 0, "에스코트 레이더 경고 200"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10707176-2", "question": "포르쉐 북미에는 어떤 보고가 있었나요?\n", "sql": {"sel": 8, "conds": [[7, 0, "포르쉐 북미"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10707176-2", "question": "피닉스 국제 경마장에는 어떤 rnds가 있었습니까?\n", "sql": {"sel": 0, "conds": [[2, 0, "피닉스 국제 경마장"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10707176-2", "question": "12와 같은 rnd의 폴 포지션은 누구였습니까?\n", "sql": {"sel": 5, "conds": [[0, 0, "12"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10707176-2", "question": "클리블랜드 버크 호숫가 공항 서킷에 대해 얼마나 많은 보고가 있었습니까?\n", "sql": {"sel": 8, "conds": [[2, 0, "클리블랜드 버크 레이크프론트 공항"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10707176-2", "question": "5와 같은 rnd의 우승 드라이버는 몇 명입니까?\n", "sql": {"sel": 6, "conds": [[0, 0, "5"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10706879-3", "question": "경주 Tony bettenhausen 200의 가장 작은 rd는 무엇입니까?\n", "sql": {"sel": 0, "conds": [[1, 0, "토니 베텐하우젠 200"]], "agg": 2}}
+{"phase": 1, "table_id": "1-10706879-3", "question": "로스앤젤레스 곱하기 500 레이스의 우승팀은 누구?\n", "sql": {"sel": 5, "conds": [[1, 0, "로스앤젤레스 타임즈 500"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10706879-3", "question": "크라코 트윈 125(r2) 레이스에서 우승한 드라이버는 몇 명입니까?\n", "sql": {"sel": 4, "conds": [[1, 0, "크라코 트윈 125 (R2)"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10706879-3", "question": "johnny rutherford가 우승한 경주는 무엇입니까?\n", "sql": {"sel": 1, "conds": [[4, 0, "조니 러더포드"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10706879-3", "question": "10에 해당하는 1rd에 대해 가장 빠른 랩이 몇 개 있었습니까?\n", "sql": {"sel": 3, "conds": [[0, 0, 10]], "agg": 3}}
+{"phase": 1, "table_id": "1-10712301-5", "question": "노스 이스트 잉글랜드의 라이센스 부여 날짜는 언제입니까?\n", "sql": {"sel": 2, "conds": [[0, 0, "잉글랜드 북동부"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10733530-3", "question": "에티오피아의 2000-2008년 성장률은 얼마입니까?\n", "sql": {"sel": 4, "conds": [[0, 0, "에티오피아"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10733530-3", "question": "2000-2008년 우간다의 총 성장률을 말하시오?\n", "sql": {"sel": 4, "conds": [[0, 0, "우간다"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10733530-3", "question": "부룬디에서 2000-2008년에 성장한 최대 비율은 얼마입니까?\n", "sql": {"sel": 4, "conds": [[0, 0, "부룬디"]], "agg": 1}}
+{"phase": 1, "table_id": "1-10798421-1", "question": "1951년에 슬로베니아인의 76.3%를 차지하는 모든 마을(독일어)의 이름을 알려주십시오.\n", "sql": {"sel": 0, "conds": [[4, 0, "76.3%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10798421-1", "question": "1991년에 슬로베니아인의 92.5%와 함께 1991년의 최소 인구 수를 알려주세요.\n", "sql": {"sel": 2, "conds": [[3, 0, "92.5%"]], "agg": 2}}
+{"phase": 1, "table_id": "1-10798421-1", "question": "sele srednji kot이 있는 마을(슬로베니아어)의 일부인 모든 마을(독일어)의 이름을 알려주십시오.\n", "sql": {"sel": 0, "conds": [[1, 0, "셀레 스레덴지 코트"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10798421-1", "question": "sele borovnica가 있는 마을(슬로베니아)의 일부인 모든 마을(독일어)의 이름을 알려주십시오.\n", "sql": {"sel": 0, "conds": [[1, 0, "셀레 보로브니카"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10798421-1", "question": "1951년에 슬로베니아인이 96.9%인 마을(독일어)의 이름을 알려주세요.\n", "sql": {"sel": 0, "conds": [[4, 0, "96.9%"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10798421-1", "question": "sele srednji kot를 사용하여 마을(슬로베니아어)의 일부인 마을(독일어) 이름을 제공합니다.\n", "sql": {"sel": 0, "conds": [[1, 0, "셀레 스레덴지 코트"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10812293-3", "question": "11월 12일 경기 결과는?\n", "sql": {"sel": 3, "conds": [[1, 0, "11월 12일"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10812293-3", "question": "샌안토니오와의 경기에서 누가 높은 도움을 주었습니까?\n", "sql": {"sel": 6, "conds": [[2, 0, "샌 안토니오"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10812293-3", "question": "4경기에서 누가 가장 많은 득점을 했습니까?\n", "sql": {"sel": 4, "conds": [[0, 0, 4]], "agg": 0}}
+{"phase": 1, "table_id": "1-10812293-3", "question": "11월 20일 경기는 어디에 있었나요?\n", "sql": {"sel": 7, "conds": [[1, 0, "11월 20일"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10935205-1", "question": "2008년 2월 11일의 캐나다 방영일이 어떤 시리즈 번호에 적용되었습니까?\n", "sql": {"sel": 1, "conds": [[3, 0, "2008년 2월 11일"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10935205-1", "question": "2008년 4월 4일의 미국 방영일에는 무엇의 생산 코드가 있었습니까?\n", "sql": {"sel": 5, "conds": [[4, 0, "2008년 4월 4일"]], "agg": 1}}
+{"phase": 1, "table_id": "1-10935205-1", "question": "&quot;don&#39;t stop believin&#39;&quot;이라는 제목의 에피소드가 시즌 중 가장 높은 수를 기록한 에피소드는 무엇입니까?\n", "sql": {"sel": 0, "conds": [[2, 0, "&quot;믿는 걸 멈추지 마&quot;"]], "agg": 1}}
+{"phase": 1, "table_id": "1-10935205-1", "question": "2008년 8월 8일의 미국 방영일에도 캐나다 방영일이 무엇이었습니까?\n", "sql": {"sel": 3, "conds": [[4, 0, "2008년 8월 8일"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10935205-1", "question": "2008년 3월 17일의 캐나다 방영일에는 시즌에 몇 개의 숫자가 있었습니까?\n", "sql": {"sel": 0, "conds": [[3, 0, "2008년 3월 17일"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10935205-1", "question": "2008년 4월 4일 미국에서 방영된 에피소드의 이름은 무엇이었습니까?\n", "sql": {"sel": 2, "conds": [[4, 0, "2008년 4월 4일"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10953197-5", "question": "에피소드 &quot;위대한 기대 (2)&quot;는 누가 감독 했습니까?\n", "sql": {"sel": 3, "conds": [[2, 0, "&quot;대단한 기대 (2)&quot;"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10975034-2", "question": "2004년 CFL 드래프트에서 어떤 선수가 윌프리드 로리에에 다녔습니까?\n", "sql": {"sel": 2, "conds": [[4, 0, "윌프리드 로리에"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10975034-2", "question": "Christian Leibl-Cote는 어떤 포지션을 맡고 있나요?\n", "sql": {"sel": 3, "conds": [[2, 0, "크리스티안 라이블 코트"]], "agg": 0}}
+{"phase": 1, "table_id": "1-10975034-2", "question": "노스웨스턴 대학의 선발 번호는 무엇입니까?\n", "sql": {"sel": 0, "conds": [[4, 0, "노스웨스턴"]], "agg": 1}}
+{"phase": 1, "table_id": "1-10992-3", "question": "4.911명의 외국인은 백분율로 몇 명입니까?\n", "sql": {"sel": 5, "conds": [[3, 0, "4.911"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10992-3", "question": "외국인이 5.162인 시가지의 수는?\n", "sql": {"sel": 1, "conds": [[4, 0, "5.162"]], "agg": 3}}
+{"phase": 1, "table_id": "1-10992-3", "question": "숫자가 47인 도시는 무엇입니까?\n", "sql": {"sel": 1, "conds": [[0, 0, "47"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11044765-1", "question": "어느 리그에서 Raiders를 마스코트로 삼고 있습니까?\n", "sql": {"sel": 3, "conds": [[1, 0, "레이더스"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11044765-1", "question": "Galena 학교는 어느 리그에 있습니까?\n", "sql": {"sel": 3, "conds": [[0, 0, "방연광"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11044765-1", "question": "창기병 마스코트는 어느 도시와 주에 있습니까?\n", "sql": {"sel": 2, "conds": [[1, 0, "그 곡"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11044765-1", "question": "광부들은 어느 도시와 주에 있습니까?\n", "sql": {"sel": 2, "conds": [[1, 0, "광부"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11044765-1", "question": "Raiders가 마스코트인 학교는 어디인가요?\n", "sql": {"sel": 0, "conds": [[1, 0, "레이더스"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1121352-2", "question": "2002년 11월 3일 토너먼트는 어디에서 열렸습니까?\n", "sql": {"sel": 2, "conds": [[1, 0, "2002년 11월 3일"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1121352-2", "question": "2004년 3월 28일자 승리의 마진은 어디에 있습니까?\n", "sql": {"sel": 5, "conds": [[1, 0, "2004년 3월 28일"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1121352-2", "question": "2003년 5월 4일자 to par는 얼마입니까?\n", "sql": {"sel": 4, "conds": [[1, 0, "2003년 5월 4일"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1121352-2", "question": "준우승 팻 허스트 줄리 잉크스터의 날짜는?\n", "sql": {"sel": 1, "conds": [[6, 0, "팻 허스트 줄리 잉크스터"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11210576-4", "question": "캐릭터가 rick stetler인 최종 epbingode count의 총 수는 얼마입니까?\n", "sql": {"sel": 6, "conds": [[0, 0, "릭 스테틀러"]], "agg": 3}}
+{"phase": 1, "table_id": "1-11210576-4", "question": "첫 번째 에피소드가 &quot;매복&quot;인 배우는 모두 무엇입니까?\n", "sql": {"sel": 2, "conds": [[3, 0, "&quot;매복&quot;"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11210576-4", "question": "운명이 죽은 캐릭터는 무엇입니까 : 칼 상처\n", "sql": {"sel": 0, "conds": [[1, 0, "사망: 칼 부상"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11210576-4", "question": "첫 번째 epbeingode가 &quot;la&quot;인 마지막 epbingode count의 총 수는 얼마입니까?\n", "sql": {"sel": 6, "conds": [[3, 0, "&quot;NS&quot;"]], "agg": 3}}
+{"phase": 1, "table_id": "1-11210576-4", "question": "죠셉 래트너 판사라는 캐릭터가 있는 배우\n", "sql": {"sel": 2, "conds": [[0, 0, "조셉 래트너 판사"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11210576-4", "question": "마지막 epbeingode가 &quot;rio&quot;인 첫 번째 epbeingode는 무엇입니까?\n", "sql": {"sel": 3, "conds": [[4, 0, "&quot;강&quot;"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11214772-2", "question": "2007년 두 번째 준결승 진출팀은?\n", "sql": {"sel": 6, "conds": [[0, 0, 2007]], "agg": 0}}
+{"phase": 1, "table_id": "1-11214772-2", "question": "2005년에 몇 개의 팀이 2위를 차지했으며 첫 번째 준결승 진출팀은 웨스턴 캐롤라이나였습니까?\n", "sql": {"sel": 3, "conds": [[5, 0, "웨스턴 캐롤라이나"], [0, 0, 2005]], "agg": 3}}
+{"phase": 1, "table_id": "1-11214772-2", "question": "마이애미가 첫 번째 준결승 진출자로 등재된 모든 게임의 점수 나열\n", "sql": {"sel": 2, "conds": [[5, 0, "마이애미"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11214772-2", "question": "Embry-Riddle이 첫 번째 준결승 진출자 자리에 올랐을 때 모든 준우승자를 나열하십시오.\n", "sql": {"sel": 3, "conds": [[5, 0, "Embry-Riddle"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11214772-2", "question": "2007년 마지막 경기는 어디에서 열렸습니까?\n", "sql": {"sel": 4, "conds": [[0, 0, 2007]], "agg": 0}}
+{"phase": 1, "table_id": "1-1132600-3", "question": "어느 라운드에서 Michael Schumacher가 폴 포지션에, David Coulthard가 가장 빠른 랩을, McLaren - Mercedes가 우승 컨스트럭터로 등장했습니까?\n", "sql": {"sel": 0, "conds": [[2, 0, "마이클 슈마허"], [3, 0, "데이비드 쿨타드"], [5, 0, "맥라렌 - 메르세데스"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1132600-3", "question": "이탈리아 그랑프리에서 우승한 드라이버는 몇 명입니까?\n", "sql": {"sel": 4, "conds": [[1, 0, "이탈리아 그랑프리"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1132600-3", "question": "벨기에 그랑프리의 보고서는 무엇이었습니까?\n", "sql": {"sel": 6, "conds": [[1, 0, "벨기에 그랑프리"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1132600-3", "question": "벨기에 그랑프리에서 누가 가장 빠른 랩을 가졌습니까?\n", "sql": {"sel": 3, "conds": [[1, 0, "벨기에 그랑프리"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1134091-4", "question": "공석이 찰스 e. 체임벌린(r)?\n", "sql": {"sel": 4, "conds": [[1, 0, "찰스 E. 체임벌린(R)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1134091-4", "question": "vacator가 체스터일 때 후계자는 누구였습니까? e. 홀리필드(d)?\n", "sql": {"sel": 3, "conds": [[1, 0, "체스터 E. 홀리필드(D)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1134091-4", "question": "지구가 캘리포니아 10번째였을 때 후임자는 언제 앉았습니까?\n", "sql": {"sel": 4, "conds": [[0, 0, "캘리포니아 10위"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1134091-4", "question": "후임자가 앉았던 날짜가 1973년 8월 21일이었을 때 공석인은 누구였습니까?\n", "sql": {"sel": 1, "conds": [[4, 0, "1973년 8월 21일"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1134091-4", "question": "변경 사유가 1974년 1월 1일에 사망했을 때 지구는 무엇이었습니까?\n", "sql": {"sel": 0, "conds": [[2, 0, "1974년 1월 1일 사망"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11336756-6", "question": "비고 섹션에 &quot;US 81로 대체&quot;된 경로는 무엇입니까?\n", "sql": {"sel": 0, "conds": [[6, 0, "US 81로 대체됨"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11336756-6", "question": "비고 섹션에 나열된 &quot;bsi-35로 대체&quot;된 접합은 무엇입니까?\n", "sql": {"sel": 3, "conds": [[6, 0, "BSI-35로 대체"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11336756-6", "question": "비고 섹션에 &quot;bsi-35로 대체&quot;된 접합이 몇 개 있습니까?\n", "sql": {"sel": 3, "conds": [[6, 0, "BSI-35로 대체"]], "agg": 3}}
+{"phase": 1, "table_id": "1-11336756-6", "question": "비고 섹션에 &quot;replaced by us 81&quot;이 있는 경로에 사용되는 길이 단위는 무엇입니까?\n", "sql": {"sel": 4, "conds": [[6, 0, "US 81로 대체됨"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11336756-6", "question": "비고 섹션에 &quot;replaced by us 83&quot;이 나열된 인구 지역은 무엇입니까?\n", "sql": {"sel": 5, "conds": [[6, 0, "US 83으로 대체됨"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11336756-6", "question": "방향 섹션에 &quot;동서&quot;가 나열되고 교차로 섹션에 &quot;없음&quot;이 나열되고 경로 이름이 &quot;sh 202&quot;인 터미널이 몇 개입니까?\n", "sql": {"sel": 2, "conds": [[1, 0, "동서"], [3, 0, "없음"], [0, 0, "SH 202"]], "agg": 3}}
+{"phase": 1, "table_id": "1-11449311-2", "question": "CBS에서 세인트루이스 카디널스를 상대로 방영되었던 경기의 시작 시간을 알려주세요.\n", "sql": {"sel": 4, "conds": [[6, 0, "CBS"], [2, 0, "세인트루이스 카디널스"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11449311-2", "question": "2-13의 기록으로 모든 결과를 찾으십시오.\n", "sql": {"sel": 3, "conds": [[8, 0, "2-13"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11542215-3", "question": "총 56.635의 볼트 점수는 얼마입니까?\n", "sql": {"sel": 5, "conds": [[8, 0, "56.635"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11542215-3", "question": "마루운동 점수가 9.287이었을 때의 총점은?\n", "sql": {"sel": 8, "conds": [[2, 0, "9.287"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11570261-1", "question": "2위가 필 미켈슨인 마진은 얼마입니까?\n", "sql": {"sel": 4, "conds": [[5, 0, "필 미켈슨"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11570261-1", "question": "54개 홀이 공동 선두이고 마진이 5타인 준우승자는 누구입니까?\n", "sql": {"sel": 5, "conds": [[2, 0, "리드에 대한 동점"], [4, 0, "5타"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11570261-1", "question": "54홀이 1타차이고 2위가 chris dimarco인 챔피언십은?\n", "sql": {"sel": 1, "conds": [[2, 0, "1샷 리드"], [5, 0, "크리스 디마르코"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11570261-1", "question": "우승 점수가 -8인 최소 연도는 몇 년입니까(71-63-69-69=272)\n", "sql": {"sel": 0, "conds": [[3, 0, "-8 (71-63-69-69=272)"]], "agg": 2}}
+{"phase": 1, "table_id": "1-11570261-1", "question": "우승 점수가 -12(74-66-65-71=276)인 챔피언십은 무엇인가요?\n", "sql": {"sel": 1, "conds": [[3, 0, "−12 (74-66-65-71=276)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11570261-1", "question": "승리 점수가 -19(67-66-67-69=269)인 54홀은 무엇입니까?\n", "sql": {"sel": 2, "conds": [[3, 0, "−19 (67-66-67-69=269)"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11589522-3", "question": "원래 방송 날짜가 2009년 1월 18일인 제목이 무엇입니까?\n", "sql": {"sel": 2, "conds": [[5, 0, "2009년 1월 18일"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11589522-3", "question": "iain morris &amp; damon beesley가 쓴 원래 방송 날짜는 무엇입니까?\n", "sql": {"sel": 5, "conds": [[4, 0, "이언 모리스 &amp; 데이먼 비슬리"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1160161-12", "question": "어느 연합군이 Woensdrecht를 목표로 삼았습니까?\n", "sql": {"sel": 3, "conds": [[0, 0, "웬스드레흐트"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1160161-12", "question": "ghent/sint-denijs-westrem을 표적으로 삼은 그룹의 연합 표적 코드는 무엇입니까?\n", "sql": {"sel": 1, "conds": [[0, 0, "겐트 / 신트데니즈웨스트렘"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1160304-2", "question": "UK Albums Top 75 차트 진입일은 언제인가요?\n", "sql": {"sel": 1, "conds": [[0, 0, "영국 앨범 상위 75위"]], "agg": 0}}
+{"phase": 1, "table_id": "1-1160304-2", "question": "Ireland Albums Top 75 차트에서 정점을 찍은 총 주 수는?\n", "sql": {"sel": 4, "conds": [[0, 0, "아일랜드 앨범 상위 75위"]], "agg": 3}}
+{"phase": 1, "table_id": "1-1160304-2", "question": "Dutch Albums Top 100 차트의 종료일은 언제입니까?\n", "sql": {"sel": 6, "conds": [[0, 0, "네덜란드 앨범 상위 100위"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11609814-1", "question": "순도가 떨어지는 전체 불변의 수는 얼마입니까?\n", "sql": {"sel": 4, "conds": [[5, 0, "떨어지는"]], "agg": 3}}
+{"phase": 1, "table_id": "1-11609814-1", "question": "순결이 루드라인 몸의 영속성은?\n", "sql": {"sel": 3, "conds": [[5, 0, "루드라"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11609814-1", "question": "순수함이 불안인 몸의 영속성은 무엇인가\n", "sql": {"sel": 3, "conds": [[5, 0, "우려"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11609814-1", "question": "고행이 차별 없는 몸의 영속성은 무엇인가\n", "sql": {"sel": 3, "conds": [[2, 0, "차별 없는"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11609814-1", "question": "몸의 영속성이 명상인 불변성은 무엇인가\n", "sql": {"sel": 4, "conds": [[3, 0, "심사 숙고"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11609814-1", "question": "불변이 관심인 신체의 영속성은 무엇인가\n", "sql": {"sel": 3, "conds": [[4, 0, "관심"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11630008-8", "question": "&quot;firestorm&quot;이라는 제목의 원래 방송 날짜는 언제인가요?\n", "sql": {"sel": 5, "conds": [[2, 0, "&quot;파이어스톰&quot;"]], "agg": 0}}
+{"phase": 1, "table_id": "1-11630008-8", "question": "프로덕션 코드가 624인 에피소드 제목이 무엇인가요?\n", "sql": {"sel": 2, "conds": [[6, 0, 624]], "agg": 0}}
+{"phase": 1, "table_id": "1-11630008-8", "question": "Karen Felix와 Don Woodard가 작성한 에피소드의 원래 방송 날짜는 언제입니까?\n", "sql": {"sel": 5, "conds": [[4, 0, "카렌 펠릭스와 돈 우다드"]], "agg": 0}}
