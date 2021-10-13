@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Marie Query</title>
+		<script type="text/javascript">
+			function insert_data(){
+
+				var insert_form = document.insert_form;
+				var tid = insert_form.tid.value;
+				var query = insert_form.query.value;
+
+				if(!tid||!query){
+					alert("check the form");
+				}
+				else{
+					insert_form.submit();
+				}
+			}
+		</script>
+	</head>
+	<body>
+
+		<form action="/add_data" method="POST" name="insert_form" enctype = "multipart/form-data">
+
+			<label for="userid">user_id:</label><br>
+			<input type="text" id="userid" name="userid"><br>
+			<br><br>
+			<label for="tid">table_id:</label><br>
+			<input type="text" id="tid" name="tid"><br>
+			<label for="table">DB table:</label><br>
+			<input type="file" id="table" name="table"><br>
+			<label for="query">quetions:</label><br>
+			<textarea style="width:250px;height:150px;" id="query" name="query"></textarea>
+			<br><br>
+
+			<input id="submit_btn" type="button" value="predict" onclick="insert_data()">
+
+		</form>
+
+	</body>
+</html>
