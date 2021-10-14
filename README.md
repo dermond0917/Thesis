@@ -1,4 +1,4 @@
-# Korean Text-to-SQL
+# Korean Text-to-SQL (진행중)
 
 # **목표**
 
@@ -19,8 +19,6 @@
 # 내용
 
 ## 한글 Dataset
-
-(진행중)
 
 ![image](https://user-images.githubusercontent.com/38035718/137361761-0746c138-a176-4113-82b2-1cf87bb55ee6.png)
 
