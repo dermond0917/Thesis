@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	<meta charset="utf-8">
+	<title>Marie Query</title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/style1.css')}}">
+</head>
+
+<body>
+
+	<header id="home">
+		<div class="container">
+			<div class="main-header">
+				<img src="{{ url_for('static', filename='img/dog.png')}}" alt="icon unavailable" width="40px">
+				<h1>Marie Query</h1>
+			</div>
+		</div>
+	</header>
+
+<div class="notice">
+<h2>Using table: {{tid}}</h2>
+</div>
+
+	<form class="data-form" action="/predict" method="POST" name="insert_form" enctype="multipart/form-data">
+		<div class="predicted">
+      <input type="hidden" id="uid" name="uid" value={{user_id}}>
+      <input type="hidden" id="att" name="att" value={{att}}>
+      <input type="hidden" id="tid" name="tid" value={{tid}}>
+			<div class="predicted_block">
+				<div class="predicted-header">
+					<!--<img src="img/pug.png" alt="icon unavailable" width="40px">-->
+					<h2>자연어 질문</h2>
+				</div>
+				<div class="edit_box">
+					<textarea id="nlu" name="nlu" placeholder="자연어 질문을 입력하세요.">{%if predicted%}{% for nlu, sql in predicted %}{{nlu}}{% endfor %}{%endif%}</textarea>
+				</div>
+			</div>
+
+			<div class="predicted_block">
+				<div class="predicted-header">
+					<!--<img src="img/retriever.png" alt="icon unavailable" width="40px">-->
+					<h2>SQL Query</h2>
+				</div>
+				<div class="edit_box">
+					<textarea id="query" name="query">{%if predicted%}{% for nlu,sql in predicted %}{{sql}}{% endfor %}{%endif%}</textarea>
+				</div>
+			</div>
+      <input class="button" id="predict_btn" type="submit" value="predict">
+		</div>
+			
+	</form>
+</body>
+
+</html>

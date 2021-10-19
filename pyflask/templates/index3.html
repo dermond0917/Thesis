@@ -1,41 +1,42 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 	<head>
-		<title>Marie Query</title>
-		<script type="text/javascript">
-			function insert_data(){
-
-				var insert_form = document.insert_form;
-				var tid = insert_form.tid.value;
-				var query = insert_form.query.value;
-
-				if(!tid||!query){
-					alert("check the form");
-				}
-				else{
-					insert_form.submit();
-				}
-			}
-		</script>
+		<meta charset="utf-8">
+	  <title>Marie Query</title>
+	  <link rel="stylesheet" href="{{ url_for('static', filename='css/style0.css')}}">
 	</head>
+
 	<body>
 
-		<form action="/add_data" method="POST" name="insert_form" enctype = "multipart/form-data">
+		<header id="home">
+	    <div class="container">
+	      <div class="main-header">
+	        <img src="{{ url_for('static', filename='img/dog.png')}}" alt="icon unavailable" width="40px">
+	        <h1>Marie Query</h1>
+	      </div>
+	    </div>
+	  </header>
 
-			<label for="userid">user_id:</label><br>
-			<input type="text" id="userid" name="userid"><br>
-			<br><br>
-			<label for="tid">table_id:</label><br>
-			<input type="text" id="tid" name="tid"><br>
-			<label for="table">DB table:</label><br>
+		<form class="data-form" action="/add_data" method="POST" name="insert_form" enctype="multipart/form-data">
+			<div class="form-group">
+			<label for="table">DB table: ( *.csv )</label><br>
 			<input type="file" id="table" name="table"><br>
-			<label for="query">quetions:</label><br>
-			<textarea style="width:250px;height:150px;" id="query" name="query"></textarea>
-			<br><br>
+			</div>
+			<div class="container">
+			<input class="button" id="upload_btn" type="submit" value="upload">
+		</div>
 
-			<input id="submit_btn" type="button" value="predict" onclick="insert_data()">
+		<table id="csvRoot"></table>
 
 		</form>
 
+		<script src="https://unpkg.com/papaparse@5.3.1/papaparse.min.js"></script>
+
+		<script src="{{ url_for('static', filename='js/TableCsv.js')}}"></script>
+		<!--{% for p in predicted %}
+			{{p}}
+		{% endfor %}
+		-->
 	</body>
 </html>
