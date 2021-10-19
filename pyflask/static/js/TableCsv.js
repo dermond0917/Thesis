@@ -1,3 +1,5 @@
+/* from https://codepen.io/dcode-software/pen/qBbOEdY */
+
 class TableCsv {
   /**
    * @param {HTMLTableElement} root The table element which will display the CSV data.
