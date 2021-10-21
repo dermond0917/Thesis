@@ -35,6 +35,7 @@
 				<div class="edit_box">
 					<textarea id="nlu" name="nlu" placeholder="자연어 질문을 입력하세요.">{%if predicted%}{% for nlu, sql in predicted %}{{nlu}}{% endfor %}{%endif%}</textarea>
 				</div>
+        <input class="button" id="predict_btn" type="submit" value="predict">
 			</div>
 
 			<div class="predicted_block">
@@ -43,10 +44,9 @@
 					<h2>SQL Query</h2>
 				</div>
 				<div class="edit_box">
-					<textarea id="query" name="query">{%if predicted%}{% for nlu,sql in predicted %}{{sql}}{% endfor %}{%endif%}</textarea>
+					<textarea id="query" name="query" readonly>{%if predicted%}{% for nlu,sql in predicted %}{{sql}}{% endfor %}{%endif%}</textarea>
 				</div>
 			</div>
-      <input class="button" id="predict_btn" type="submit" value="predict">
 		</div>
 			
 	</form>

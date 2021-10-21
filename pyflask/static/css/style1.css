@@ -56,9 +56,12 @@
 }
 
 .predicted_block {
+  flex: 1;
+  min-width: 400px;
+  max-width: 500px;
   text-align: justify;
-  padding-right: 65px;
-  padding-left: 65px;
+  padding-right: 5px;
+  padding-left: 5px;
   line-height: 1.7em;
 }
 
@@ -94,13 +97,16 @@
 
 .button {
   float: right;
+  margin-top: 10px;
   background-color: #fff;
   color: #b1b1b5;
-  padding: 10px 15px;
   border: 1px solid #b1b1b5;
+  border-radius: 8px;
   text-decoration: none;
   font-family: sans-serif;
-  font-size: 20px;
+  font-size: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .button:hover {
@@ -108,51 +114,40 @@
   color: #fff;
 }
 
-.form-group{
-  display: flex;
-  flex-wrap: wrap;
+.data-form {
   justify-content: center;
-}
-
-.form-group label {
-  width: 70%;
-  height: 30px;
-  font-family: sans-serif;
-  font-size: 1.3em;
-  color: #7f7f82;
-}
-
-.form-group input {
-  border: 1px solid #b1b1b5;
+  float: center;
   width: 100%;
-  height: 50px;
-  font-family: sans-serif;
-  font-size: 1.1em;
-  margin-bottom: 10px;
-  padding-left: 10px;
+  min-width: 500px;
 }
 
-.form-group input[type="file"] {
-  border: 1px solid #b1b1b5;
-  width: 100%;
-  height: 40px;
+table {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  border-radius: 3px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0);
+  overflow: hidden;
   font-family: sans-serif;
-  font-size: 1.1em;
-  margin-bottom: 10px;
-  padding-left: 10px;
-  padding-top: 10px;
-  color: #7f7f82;
+  font-size: 14px;
 }
 
-.form-group textarea {
-  border: 1px solid #b1b1b5;
-  width: 70%;
-  height: 150px;
-  font-family: sans-serif;
-  font-size: 1.1em;
-  margin-bottom: 10px;
-  padding-top: 15px;
-  padding-left: 10px;
+th {
+  background: #2a4675;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+
+th,
+td {
+  padding: 10px 20px;
+}
+
+tr:nth-child(even) {
+  background: #f2f5fa;
 }
 
 .edit_box{
