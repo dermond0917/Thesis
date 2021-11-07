@@ -46,10 +46,14 @@
 
 ## 사용자의 데이터로 기 학습된 모델 사용 가능한 web
 -  사용자가 csv 형식의 테이블 데이터를 업로드하고 자연어 질문을 입력하면 기 학습된 모델을 통해 해당하는 SQL Query를 예측하는 자연어-SQL 번역 웹 사이트를 구성하였다.
-
+-  소스코드는 pyflask의 [flask_app.py](https://github.com/dermond0917/Thesis/blob/master/pyflask/flask_app.py) 파일 참고
+ 
 *index page*![image](https://user-images.githubusercontent.com/38035718/138371781-0797dbff-9de3-4067-918f-931b6f731058.png)
 
 *query page*![image](https://user-images.githubusercontent.com/38035718/138371797-78214560-81cb-4e8b-8525-fbb461a4702a.png)
+
+*demo* ![vllo](https://user-images.githubusercontent.com/38035718/140654392-182321b3-d525-409b-9d2f-d406ab8e8664.GIF)
+
 
 ## 한글 Dataset
 
