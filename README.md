@@ -39,8 +39,9 @@
     - KoBERT를 이용하기 위해서는 번역 데이터가 아닌 원문이 한글인 데이터를 이용 해야 할 것으로 보임
 
   ![image](https://user-images.githubusercontent.com/38035718/138371902-56054776-450a-45e9-aa37-93e7c03546e0.png)
-  
-
+ 
+ 
+- 학습 진행 내용은 src의 [mariequery_korean_minimini.ipynb](https://github.com/dermond0917/Thesis/blob/master/srcs/mariequery_korean_minimini.ipynb) 파일 참고
 - 한글 데이터셋에 대해 학습한 모델의 경우 다음 [링크](https://drive.google.com/file/d/10dPKIWtezuAh14zKB6-L5VgEbIVG2C8_/view?usp=sharing)를 통해 다운로드 가능
 
 ## 사용자의 데이터로 기 학습된 모델 사용 가능한 web
